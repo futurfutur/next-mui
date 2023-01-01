@@ -37,7 +37,7 @@
     "underscore": "^1.9.1"
   },
   "devDependencies": {
-    "@svgr/webpack": "^5.0.0",
+    "@svgr/webpack": "^5.5.0",
     "@types/node": "^12.12.20",
     "@types/react": "^16.9.16",
     "@types/react-window": "^1.8.1",
